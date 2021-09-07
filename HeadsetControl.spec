@@ -14,7 +14,7 @@ Sidetone and Battery status for Logitech G930, G533, G633, G933 SteelSeries Arct
 
 %prep
 git clone https://github.com/Sapd/HeadsetControl
-cd HeadSetControl
+cd HeadsetControl
 mkdir build
 cd build
 cmake ..
