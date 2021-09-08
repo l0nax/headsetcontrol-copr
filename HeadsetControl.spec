@@ -33,7 +33,7 @@ cmake .
 %files
 %license
 %doc
-
+/usr/local/bin/headsetcontrol
 
 %changelog
 
